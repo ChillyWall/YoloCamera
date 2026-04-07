@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+device_id: 0
+enable_swap_rb: true
+cuda_memory: true
+managed_memory: true
+enable_performance_report: true

@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+camera_id: 4
+model_path: "/home/chilly/workspace/yolo_camera/res/yolov8n.engine"
+calibration_result_path: "/home/chilly/workspace/yolo_camera/res/calibration_result.yml"
+infer_option_path: "/home/chilly/workspace/yolo_camera/res/infer_option.yml"
+labels_file: "/home/chilly/workspace/yolo_camera/res/labels.yml"
