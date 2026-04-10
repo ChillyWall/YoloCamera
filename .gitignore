@@ -3,3 +3,4 @@ build/
 target/
 CMakePresets.json
 compile_commands.json
+*.engine
